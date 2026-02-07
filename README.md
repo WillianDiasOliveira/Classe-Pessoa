@@ -21,7 +21,7 @@ O exercício trabalha conceitos como métodos especiais (__str__), uso de @prope
 
 ## 🖥️Como Executar
 
-No terminal digite "Python Conta_Classe.py"
+No terminal digite "Python Pessoa_Classe.py"
 
 ## 🖥️ Tecnologias
 <div>
