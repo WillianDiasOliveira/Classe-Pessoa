@@ -11,8 +11,6 @@ Sugestões e melhorias são sempre bem-vindas!</p>
 
 <h2>📖 Descrição do código </h2>
 
-O objetivo deste projeto é aplicar conceitos básicos de programação em Python <br>
-
 O desafio é criar um programa que represente pessoas utilizando classes em Python, armazenando informações como nome, idade e profissão. O sistema deve exibir os dados formatados, permitir atualizar a idade através de um método de aniversário e gerar mensagens personalizadas de saudação.
 O exercício trabalha conceitos como métodos especiais (__str__), uso de @property, manipulação de atributos e criação de comportamentos dinâmicos dentro da Programação Orientada a Objetos.
 
